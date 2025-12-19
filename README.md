@@ -3,6 +3,7 @@
 Lupulescu Maria-Alexandra<br>
 Negoiță Mihaela<br>
 Popa Alexia-Elena
+332AB<br>
 ## Overview
 
 This project focuses on the study and implementation of several classical clustering algorithms for multidimensional data, with an emphasis on **2D/3D point clouds**.
